@@ -1,0 +1,90 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+/*calendar container*/
+.container{
+  max-width: 80%;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+/*user event time clocks*/
+.event-block{
+  text-align: center;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+/* each of the hours*/
+.hour {
+  background-color: #ffffff;
+  color:#000000;
+  border-top: 1px dashed #000000;
+}
+
+/*time block color for past*/
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+/*time block color for current*/
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+/*time block color for future*/
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+/*hover for save btn*/
+.hover {
+  transition: all .3s ease-in-out;
+  background-color: teal;
+}
+
+/*calendar icon- save*/
+.calendar-icon{
+  height: 30px;
+  width: 30px;
+  top: 40%;
+  left: 40%;
+  position: absolute;
+}
+
+

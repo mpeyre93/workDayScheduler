@@ -13,7 +13,8 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 This is a daily planner to help create a schedule.
 When the planner is opened the user is presented with the current day displayed at the top of the calendar.
 The user can scroll down to see the different timeblocks, standardized to normal business hours.
-Each timeblock is color coded to indicate whether it is in the past, present or future
+Each timeblock is color coded to indicate whether it is in the past, present or future.
+Past time blocks are indicated as grey. The present timeblock will appear as red, and future timeblocks will be green.
 The user can click within a timeblock to insert text to specify an event.
 The user can click the blue calendar button for that timeblock to save the text to local storage.
 

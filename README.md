@@ -25,5 +25,5 @@ The following animation demonstrates the application functionality:
 
 ![work day scheduler screenshots](./Images/applicationScreenshot.PNG)
 
-link for Application: 
+link for Application: (https://mpeyre93.github.io/workDayScheduler/)
 

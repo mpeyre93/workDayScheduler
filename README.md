@@ -25,6 +25,8 @@ When the users refresh the pages, the saved events are present.
 The following animation demonstrates the application functionality:
 
 ![workDaySchedulerScreenshot](/Images/full_application.png?raw=true)
+![workDaySchedulerScreenshot](/Images/consoleLogScreenshot.png?raw=true)
+![workDaySchedulerScreenshot](/Images/applicationScreenshot.png?raw=true)
 
 link for Application: (https://mpeyre93.github.io/workDayScheduler/)
 
